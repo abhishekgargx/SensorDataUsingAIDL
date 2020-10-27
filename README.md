@@ -1,4 +1,4 @@
-# Android Sensor Data Using AIDL 📱
+# <a href="https://github.com/Abhishekgarg727/SensorDataUsingAIDL">Android Sensor Data Using AIDL 📱</a><br />
 Sensor data using AIDL and lifecycle services.
 
 # What is does 🤔
